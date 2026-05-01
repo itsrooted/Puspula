@@ -1,6 +1,6 @@
 ### REMAKED!!
 ## 👁️‍🗨️ INFORMATION 👁️‍🗨️
-### Developer: CYBERWARE
+### Developer: CYBER
 ### Language: C#
 ### Version: 1.0
 ### Category: TrojanGdi.Win32
@@ -14,9 +14,5 @@
 ### I, CYBERWARE, am not responsible for any damages or losses resulting from the use.<br><br>
 ## ⤵ RECOMMENDATION ⤵
 ### For testing and study purposes, I strongly recommend using virtual machines like VMware or VirtualBox.<br><br>
-## ❇ SOCIALS ❇
-### ♤ YouTube: [CYBERWARE-TECH](https://www.youtube.com/@CYBERWARE-TECH)
-### ✯ Discord: t3nx1l
-### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
 ## 🔴 Malware Test Video (**Made by Joaozz1nn**). 🔴
 ### YouTube Link: [**https://youtu.be/QPDcp6LOoCY?si=p3KjPakrU4g-7Gsa**]
